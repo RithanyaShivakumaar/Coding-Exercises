@@ -1,0 +1,10 @@
+Sep 28, 2024 4:32:51 PM StockPriceMonitor subscribe
+INFO: Trader subscribed: ConcreteTrader
+Sep 28, 2024 4:32:51 PM StockPriceMonitor subscribe
+INFO: Trader subscribed: ConcreteTrader
+Sep 28, 2024 4:32:51 PM StockPriceMonitor notifyTraders
+INFO: Notifying traders about GOOG price change...
+Sep 28, 2024 4:32:51 PM StockPriceMonitor notifyTraders
+INFO: Notifying traders about AAPL price change...
+Sep 28, 2024 4:32:51 PM StockPriceMonitor notifyTraders
+INFO: Notifying traders about GOOG price change...
