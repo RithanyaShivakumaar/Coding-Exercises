@@ -43,26 +43,41 @@ Refer to the Figma design specifications here:
 
 ## Setup Instructions  
 
-#### Steps to build EI-UI Library  
+## Setup Instructions  
+
+### Steps to Build EI-UI Library  
 To get started, clone the repository and navigate into the project directory:  
-   1. Run the command:  
-      `git clone <the repository-link>`  
-   2. Change to the project directory using:  
-      `cd ei`  
-   3. To install the required dependencies for the library, use the following command:
-      `npm install`  
-   4. To build the library, execute the following command:
-      `ng build ei`  
 
+1. Run the command:  
 
-#### Steps to run the Library
- 
-For details on how to import and use the library components, refer to the **[documentation](https://ei-study.atlassian.net/wiki/x/GYDWK)**.
+   `git clone <the repository-link>`
+
+2. Change to the project directory using:  
+
+   `cd ei`
+
+3. To install the required dependencies for the library, use the following command:  
+
+   `npm install`
+
+4. To build the library, execute the following command:  
+
+   `ng build ei`
+
+---
+
+## Steps to Run the Library  
+For details on how to import and use the library components, refer to the **[documentation](https://ei-study.atlassian.net/wiki/x/GYDWK)**.  
 
 To test and run the library within a demo application, follow these steps:  
-1. Navigate to the demo application directory:
+
+1. Navigate to the demo application directory:  
+
    `cd demo-app`
-2. Start the application with:
-   `ng serve -o`  
+
+2. Start the application:  
+
+   `ng serve -o`
+
 
   
