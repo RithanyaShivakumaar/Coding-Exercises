@@ -51,7 +51,7 @@ To get started, clone the repository and navigate into the project directory:
       `cd ei`  
    3. To install the required dependencies for the library, use the following command:
       `npm install`  
-   5. To build the library, execute the following command:  
+   4. To build the library, execute the following command:
       `ng build ei`  
 
 
