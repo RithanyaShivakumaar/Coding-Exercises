@@ -89,4 +89,11 @@ To test and run the library within a demo application, follow these steps:
 
    [View PR Format Image](https://github.com/user-attachments/assets/18b3062c-0a82-4df9-8a8b-6f8cf1e5d403)
 
-  
+---
+
+## Who to Reach  
+
+For any queries or assistance, you can reach out to:  
+
+- **Simran** - [simran.nigam@ei.study]
+- **Rithanya** - [rithanya.s@ei.study]
