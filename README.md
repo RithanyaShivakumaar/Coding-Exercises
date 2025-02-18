@@ -43,11 +43,13 @@ Refer to the Figma design specifications here:
 
 ## Setup Instructions  
 
-#### Steps to build EI-UI Library
+#### Steps to build EI-UI Library  
 To get started, clone the repository and navigate into the project directory:  
-1. Run the command: `git clone <the repository-link>`  
-2. Change to the project directory using: `cd ei`
-   
+   1. Run the command:  
+      `git clone <the repository-link>`  
+   2. Change to the project directory using:  
+      `cd ei`  
+
 ##### Install Dependencies  
 To install the required dependencies for the library, use the following command:  
    3. `npm install`  
@@ -55,6 +57,7 @@ To install the required dependencies for the library, use the following command:
 ##### Build the Library  
 To build the library, execute the following command:  
    4. `ng build ei`  
+
 
 ### Steps to run the Library
 ##### Importing Library Components  
