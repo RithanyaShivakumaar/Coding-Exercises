@@ -43,8 +43,6 @@ Refer to the Figma design specifications here:
 
 ## Setup Instructions  
 
-## Setup Instructions  
-
 ### Steps to Build EI-UI Library  
 To get started, clone the repository and navigate into the project directory:  
 
@@ -79,5 +77,16 @@ To test and run the library within a demo application, follow these steps:
 
    `ng serve -o`
 
+---
+
+## Note for New Users  
+
+1. Create a new branch from `main`.  
+
+2. Commit your changes and raise a Pull Request (PR) from your working branch to `main`.  
+
+3. Format your PR according to the guidelines below:  
+
+   ![Pull Request Format](image-1.png)
 
   
