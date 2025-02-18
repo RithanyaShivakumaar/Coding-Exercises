@@ -61,7 +61,7 @@ For details on how to import and use the library components, refer to the **[doc
 
 To test and run the library within a demo application, follow these steps:  
 1. Navigate to the demo application directory:
-   `cd demo-app`  
+   `cd demo-app`
 2. Start the application with:
    `ng serve -o`  
 
