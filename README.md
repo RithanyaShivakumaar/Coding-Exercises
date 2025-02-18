@@ -49,22 +49,20 @@ To get started, clone the repository and navigate into the project directory:
       `git clone <the repository-link>`  
    2. Change to the project directory using:  
       `cd ei`  
-
-##### Install Dependencies  
-To install the required dependencies for the library, use the following command:  
-   3. `npm install`  
-
-##### Build the Library  
-To build the library, execute the following command:  
-   4. `ng build ei`  
+   3. To install the required dependencies for the library, use the following command:
+       `npm install`  
+   4. To build the library, execute the following command:  
+      `ng build ei`  
 
 
-### Steps to run the Library
-##### Importing Library Components  
+#### Steps to run the Library
+###### Importing Library Components  
 For details on how to import and use the library components, refer to the **[documentation](https://ei-study.atlassian.net/wiki/x/GYDWK)**.
 
 To test and run the library within a demo application, follow these steps:  
-1. Navigate to the demo application directory: `cd demo-app`  
-2. Start the application with: `ng serve -o`  
+1. Navigate to the demo application directory:
+    `cd demo-app`  
+3. Start the application with:
+   `ng serve -o`  
 
   
