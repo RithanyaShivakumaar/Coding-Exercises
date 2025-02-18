@@ -91,7 +91,7 @@ To test and run the library within a demo application, follow these steps:
 
 ---
 
-## Who to Reach  
+## For Support 
 
 For any queries or assistance, you can reach out to:  
 
